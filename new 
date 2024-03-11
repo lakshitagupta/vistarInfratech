@@ -1,0 +1,36 @@
+ <div class="row" style="position: center;">
+        <div class="team-top">
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+										<!--<img src="img/team/1.jpg" alt="">-->
+									</a>
+                <div class="team-social-icon text-center">
+                </div>
+              </div>
+              <div class="team-content text-center">
+                <h4></h4> <!--Bhupender Gupta-->
+                <p></p> <!--Founder-->
+              </div>
+            </div>
+          </div>
+          <!-- End column -->
+          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+              <div class="team-img">
+                <a href="#">
+										<!--<img src="img/team/2.jpg" alt="">-->
+									</a>
+                <div class="team-social-icon text-center">
+                </div>
+              </div>
+              <div class="team-content text-center">
+                <h4></h4> <!--Shiv Shankar Verma-->
+                <p></p> <!--Founder-->
+              </div>
+            </div>
+          </div>
+          
+        </div>
+      </div>
